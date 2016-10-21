@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P120_ClickWidget</string>
+    <string name="config">Config</string>
+    <string name="update">Update</string>
+    <string name="count">Count</string>
+    <string name="ok">OK</string>
+    <string name="google">Google</string>
+</resources>
